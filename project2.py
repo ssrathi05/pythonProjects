@@ -2,3 +2,5 @@
 # - length
 # - should contain uppercase
 # - should contain digits
+
+print("test")
