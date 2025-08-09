@@ -1,6 +1,6 @@
-# Python Tutorials
+# Python Projects
 
-> This repository contains simple Python projects I’ve worked on to learn and practice Python programming. Each script demonstrates basic concepts and helps build foundational skills.
+> This repository contains simple Python projects I’ve worked on to learn and practice Python programming. 
 
 ## Contents
 
