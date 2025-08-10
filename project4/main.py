@@ -16,7 +16,7 @@ def calculator(a: float,b: float) -> str:
 def say_hello(name: str) -> str:
   """Useful for greeting a user"""
   print("tool has been called")
-  return f"Hello {name}, I hope you are well today"
+  return f"Hello {name}, I hope you are well today."
    
   
 
