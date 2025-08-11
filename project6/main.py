@@ -1,6 +1,2 @@
-def main():
-    print("Hello from project6!")
-
-
-if __name__ == "__main__":
-    main()
+def hi():
+  print("hi")
