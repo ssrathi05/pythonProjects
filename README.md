@@ -14,6 +14,6 @@
 - **project6.py** – AI Image Classifier  
   - **Try it out:** [AI Image Classifier](https://imageclassifierai.streamlit.app/)  
     A web-based image classification tool built with Streamlit that uses AI to identify objects in uploaded images.  
-- **todo_list.json** – A sample to-do list data file (JSON format)
+
 
 
