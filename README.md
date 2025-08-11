@@ -9,7 +9,7 @@
 - **project3.py** – To-Do List Manager  
 - **project4.py** – Simple AI Agent (Chatbot)  
 - **project5.py** – AI Resume Critiquer  
-  - **Try it out:** [AI Resume Critiquer](https://shreyaairesumecritiquer.streamlit.app/)  
+  - **Try it out:** [AI Resume Critiquer](https://imageclassifierai1.streamlit.app/)  
     An AI-powered tool built with Streamlit that analyzes resumes, provides constructive feedback, and suggests improvements for better job applications.  
 - **project6.py** – AI Image Classifier  
   - **Try it out:** [AI Image Classifier](https://imageclassifierai.streamlit.app/)  
